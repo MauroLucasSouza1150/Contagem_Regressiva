@@ -1,0 +1,25 @@
+.App {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    min-height: 300px;
+    min-width: 50%;
+    background-color: rgba(43, 43, 43, 0.8);
+    color: white;
+    padding: 1.8rem;
+    border-radius: 1rem;
+}
+
+.couter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    height: 200px;
+}
